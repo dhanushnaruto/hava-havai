@@ -1,0 +1,23 @@
+.nav-container{
+    list-style-type:none;
+    width: 200px;
+    border:2px solid #bec2c2;
+    border-top: none;
+    border-left: none;
+    border-bottom:none;
+    height: 80vh;
+}
+.home-icon{
+    font-size: 25px;
+    margin-right: 7px;
+    align-self: center;
+}
+p{
+    margin: 0px;
+
+}
+.list-tems{
+    display: flex;
+    margin-bottom: 20px;
+    font-size: 20px;
+}

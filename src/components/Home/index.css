@@ -1,0 +1,78 @@
+.airports-container{
+    width: 80vw;
+    margin: 10px;
+}
+.airport-header{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    
+    
+}
+ul{
+    list-style-type: none;
+}
+.airport-heading{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid #bec2c2;
+    border-top: none;
+    padding:20px;
+    width: 90%;
+}
+.airport-items{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid #bec2c2;
+    border-top: none;
+    padding:20px;
+    width: 90%;
+}
+.country-code-card{
+    display: flex;
+}
+.airport-name-card{
+    width:350px;
+}
+
+.checkbox{
+    height: 20px;
+    width: 20px;
+    margin-right:20px;
+    align-self: center;
+}
+.airport-items-name{
+   align-self: center;
+    font-size: 16px;
+    margin-right: 10px;
+}
+.down-arrow-icon{
+    align-self: center;
+}
+    
+.countries-name{
+  width: 200px;
+}
+.code{
+    width: 70px;
+    text-align: center;
+}
+.terminal{
+    width:90px;
+    text-align: center;
+}
+
+.add-new-btn{
+    padding: 8px 10px;
+    background-color: #000000;
+    color: #ffffff;
+    border-radius: 12px;
+    margin-top: 20px;
+}
+.edit-delete-card{
+    align-self: center;
+}
+.edit-delete-icon{
+    margin-left: 10px;
+    font-size: 24px;
+}
